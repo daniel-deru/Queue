@@ -31,4 +31,6 @@ class Queue {
     isEmpty(){
         return this.store.length == 0 ? true : false
     }
+
+    
 }
